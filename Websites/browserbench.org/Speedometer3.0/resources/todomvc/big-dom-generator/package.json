@@ -70,7 +70,7 @@
         "loadicons": "^1.0.0",
         "mini-css-extract-plugin": "^2.7.2",
         "node-loader": "^2.0.0",
-        "postcss": "^8.4.23",
+        "postcss": "^8.4.34",
         "postcss-cli": "^10.1.0",
         "postcss-dropunusedvars": "^2.2.1",
         "postcss-import": "15.1.0",
