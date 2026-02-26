@@ -27,7 +27,7 @@
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
     "replace-bundle-webpack-plugin": "^1.0.0",
-    "rollup": "^0.36.4",
+    "rollup": "^2.80.0",
     "rollup-plugin-babel": "^2.6.1",
     "rollup-plugin-commonjs": "^5.0.5",
     "rollup-plugin-node-resolve": "^2.0.0",
