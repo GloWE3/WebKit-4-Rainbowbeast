@@ -17,7 +17,7 @@
         "jquery": "^3.6.4",
         "todomvc-app-css": "^2.4.2",
         "todomvc-common": "^1.0.5",
-        "underscore": "^1.13.6"
+        "underscore": "^1.13.8"
     },
     "devDependencies": {
         "http-server": "^14.1.1"
