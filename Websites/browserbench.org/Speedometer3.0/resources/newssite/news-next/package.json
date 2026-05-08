@@ -15,7 +15,7 @@
         "eslint-config-next": "13.3.4",
         "http-server": "^14.1.1",
         "news-site-css": "file:../news-site-css",
-        "next": "14.2.10",
+        "next": "15.5.15",
         "react": "18.3.1",
         "react-dom": "18.3.1",
         "react-router-dom": "^6.11.1",
