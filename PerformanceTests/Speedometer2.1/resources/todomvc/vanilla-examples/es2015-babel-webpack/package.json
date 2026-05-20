@@ -18,7 +18,7 @@
     "babel-preset-stage-2": "6.13.0",
     "chai": "3.5.0",
     "cpy-cli": "1.0.1",
-    "css-loader": "0.23.1",
+    "css-loader": "7.1.4",
     "eslint": "3.2.2",
     "eslint-config-kentcdodds": "^9.0.0",
     "extract-text-webpack-plugin": "2.0.0-beta.3",
@@ -40,7 +40,7 @@
     "surge": "0.18.0",
     "webpack": "2.1.0-beta.20",
     "webpack-config-utils": "2.0.0",
-    "webpack-dev-server": "2.1.0-beta.0",
+    "webpack-dev-server": "5.2.4",
     "webpack-validator": "2.2.7"
   },
   "scripts": {
